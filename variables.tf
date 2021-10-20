@@ -5,12 +5,12 @@ variable "userName" {
 
 variable "key_id" {
 	type = string
-	default = "AKIARVVAMUMORV2GW766"
+	default = ""
 }
 
 variable "key_psw" {
 	type = string
-	default = "8qEYNs0IfqxrTMzJG4CqKOp84zb3ixmP+1oVCrRD"
+	default = ""
 }
 
 variable "awsRegion" {
